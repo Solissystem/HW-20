@@ -1,0 +1,13 @@
+/* nav bar */
+.navbar{
+    background-color: #323F32;
+}
+/* header */
+img{
+    border-radius: 50%;
+}
+/* buttons */
+.btn{
+    display: block;
+    align-items: center;
+}
